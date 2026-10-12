@@ -1,0 +1,9 @@
+student_name = input("Enter Student Name: ")
+student_class = input("Enter Class and Section: ")
+school_name = input("Enter School Name: ")
+
+print("\n-------- STUDENT ID CARD --------")
+print(f"Name: {student_name}")
+print(f"Class: {student_class}")
+print(f"School: {school_name}")
+print("----------------------------")
